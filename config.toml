@@ -7,30 +7,32 @@ theme = "dream"
 
 # googleAnalytics = ""
 
-# disqusShortname = ""
+disqusShortname = ""
 
 enableRobotsTXT = true
 
 [params]
   #background = "black"
-  backgroundImage = "/img/background.jpg"
+  backgroundImage = "/img/background/background.jpg"
   linkColor = "seagreen"
-
+  
   author = "Arthur Lin"
   description = "IT engineer for machine learning"
   avatar = "/img/avatar.jpg"
   motto = "Never too late to learn ! Just keep working"
   
+
+
   email = "arthur8485@gmail.com"
   github = "arthur8485"
   telegram = "@binogbot"
-  # linkedin = ""
-  # codepen = ""
-  # stackoverflow = ""
+  linkedin = "asd"
+  codepen = "asd"
+  stackoverflow = "asd"
 
-  siteStartYear = 2019
+  siteStartYear = 2020
 
-  # favicon = "/favicon.ico"
+  favicon = "/favicon.ico"
 
   # dark mode
   darkLinkColor = "darkseagreen"
