@@ -1,0 +1,37 @@
+baseURL = "https://arthur8485.github.io/"
+languageCode = "zh-tw"
+title = "Arthur Blog" 
+theme = "dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  #background = "black"
+  backgroundImage = "background.jpg"
+  linkColor = "seagreen"
+
+  author = "Arthur Lin"
+  # description = ""
+  avatar = "/img/avatar.jpg"
+  motto = "Motto"
+  
+  email = "arthur8485@gmail.com"
+  github = "https://github.com/arthur8485"
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2016
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404Button = true
