@@ -9,7 +9,7 @@ theme = "dream"
 
 # disqusShortname = ""
 
-# enableRobotsTXT = true
+enableRobotsTXT = true
 
 [params]
   #background = "black"
@@ -22,7 +22,7 @@ theme = "dream"
   motto = "Never too late to learn ! Just keep working"
   
   email = "arthur8485@gmail.com"
-  github = "https://github.com/arthur8485"
+  github = "arthur8485"
   telegram = "@binogbot"
   # linkedin = ""
   # codepen = ""
