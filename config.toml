@@ -1,6 +1,6 @@
 baseURL = "https://arthur8485.github.io/"
 languageCode = "zh-tw"
-title = "Arthur Blog" 
+title = "Arthur's Blog" 
 theme = "dream"
 
 # copyright = ""
