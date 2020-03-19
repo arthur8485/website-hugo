@@ -23,11 +23,12 @@ theme = "dream"
   
   email = "arthur8485@gmail.com"
   github = "https://github.com/arthur8485"
+  telegram = "@binogbot"
   # linkedin = ""
   # codepen = ""
   # stackoverflow = ""
 
-  siteStartYear = 2020
+  siteStartYear = 2019
 
   # favicon = "/favicon.ico"
 
