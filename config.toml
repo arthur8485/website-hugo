@@ -13,7 +13,7 @@ theme = "dream"
 
 [params]
   #background = "black"
-  backgroundImage = "background.jpg"
+  backgroundImage = "/img/background.jpg"
   linkColor = "seagreen"
 
   author = "Arthur Lin"
@@ -27,7 +27,7 @@ theme = "dream"
   # codepen = ""
   # stackoverflow = ""
 
-  siteStartYear = 2016
+  siteStartYear = 2020
 
   # favicon = "/favicon.ico"
 
