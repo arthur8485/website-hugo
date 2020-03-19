@@ -17,9 +17,9 @@ theme = "dream"
   linkColor = "seagreen"
 
   author = "Arthur Lin"
-  # description = ""
+  description = "IT engineer for machine learning"
   avatar = "/img/avatar.jpg"
-  motto = "Motto"
+  motto = "Never too late to learn ! Just keep working"
   
   email = "arthur8485@gmail.com"
   github = "https://github.com/arthur8485"
