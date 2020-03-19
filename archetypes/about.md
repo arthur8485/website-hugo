@@ -2,7 +2,7 @@
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 lastmod: {{ .Date }}
-draft: false
+draft: true
 ---
 
 Cut out summary from your post content here.
