@@ -3,7 +3,6 @@ title: Hugo + Github + Markdown
 date: 2020-03-19T19:19:31+08:00
 lastmod: 2020-03-19T19:19:31+08:00
 author: Author Name
-cover: /img/cover.jpg
 categories: ["Tutorial"]
 tags: ["Hugo","Tutorial"]
 showcase: true
